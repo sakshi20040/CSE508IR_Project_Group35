@@ -56,11 +56,20 @@ python searching.py
 ```
 Run the http or https URL of the ngrok to start the server on your browser.
 
-![query1 search](images/img2.png)
+Enter the Query in English Language
+![query1 search](images/img2.jpeg)
+
+Results on Submitting the Query
 ![query1 results](images/img3.png)
+
+View answer of selected question result
 ![query1 answer](images/img4.png)
-![query2 search](images/img5.png)
-![query2 results](images/img6.png)
+
+Enter the Query in Bangla Language
+![query2 search](images/img5.jpeg)
+
+Results on Submitting the Query
+![query2 results](images/img6.jpeg)
 
 
 
