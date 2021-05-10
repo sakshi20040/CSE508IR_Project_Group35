@@ -11,12 +11,9 @@ Download [USE](https://tfhub.dev/google/universal-sentence-encoder/4)(universal-
 Download and install the ngrok using the [documentation](https://ngrok.com/download).
 
 Download the following files from the google drive and store them inside the finalProjectCode folder with the names : 
-[embeddings_9may](https://drive.google.com/file/d/1-06E7te5tfqJf4UZfyC8KfT3uiNy0ZGN/view?usp=sharing), 
+[embeddings_full](https://drive.google.com/file/d/1-DUv1ZuwPt-bDTLSYtfI6qjrAZN1ROeF/view?usp=sharing), 
 [ids_8may_full](https://drive.google.com/file/d/1-9a9kbrAMkmAbCRrbfMugs29ZVuLui_u/view?usp=sharing),
 [Questions.csv](https://drive.google.com/file/d/1TIb585CWFiH4iFoCFbhAsctuKoxIMiT7/view?usp=sharing) and [Answers.csv](https://drive.google.com/file/d/1vUbqy8_km_SVUt-zN6oTZu7vPCntwx0I/view?usp=sharing).
-
-
-
 
 
 ## Installation
