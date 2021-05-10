@@ -63,7 +63,7 @@ Run the python file searching.py in new terminal.
 ```bash
 python searching.py
 ```
-Run the http or https URL of the ngrok to start the server on your browser.
+Run the http or https URL of the ngrok to establish connection on your web browser.
 ![ngrok](images/img8.png)
 
 Enter the Query in English Language
