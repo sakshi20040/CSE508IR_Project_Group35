@@ -1,6 +1,6 @@
 # QueRe
 
-QueRe is an effective end-to-end Question-Answer retrieval system capable of retrieving a ranked list of relevant Question-Answer pairs against a user query.
+QueRe is an effective end-to-end Question-Answer retrieval system capable of retrieving a ranked list of relevant Question-Answer pairs against a user query where the  query can be multilingual.
 
 ## Requirements
 
@@ -32,6 +32,8 @@ pip install joblib
 pip install tensorflow
 ```
 
+## **Propposed Model**
+  ![model](images/ir_final_diagram5.jpg)
 ## Usage
 Run Elasticsearch using the [guide documentation](https://www.elastic.co/guide/en/elasticsearch/reference/current/starting-elasticsearch.html)
 
