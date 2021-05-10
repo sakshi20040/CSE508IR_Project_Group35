@@ -48,13 +48,14 @@ Once the indexing is created, fire up ngrok in new terminal.
 ngrok http 3000
 
 ```
-![ngrok](images/img1.png)
+![ngrok](images/img6.png)
 
 Run the python file searching.py in new terminal.
 ```bash
 python searching.py
 ```
 Run the http or https URL of the ngrok to start the server on your browser.
+![ngrok](images/img7.png)
 
 Enter the Query in English Language
 ![query1 search](images/img2.jpeg)
