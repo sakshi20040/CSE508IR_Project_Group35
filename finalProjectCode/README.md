@@ -32,8 +32,14 @@ pip install joblib
 pip install tensorflow
 ```
 
-## **Propposed Model**
+## **Proposed Model**
   ![model](images/ir_final_diagram5.jpg)
+The model takes as input user's query (multilingual and translates it into English.
+Then the query is preprocessed and sentence embedding for the query is produced.
+The preprocessed query is sent to Elastic Search for scoring and thus returning the the top 10 questions.
+The  cosine similarity score is calculated for sentence embedding of query with the corpus and thus returning top 10 questions.
+Then combined ranking is performed by giving 0.3 wieght to questoins of key-word based search by Elastic Search and remaining 0.7 wieght to  cosine based ranking question. Thus top 10 questions among them is returned the final list of relevant questions.
+
 ## Usage
 Run Elasticsearch using the [guide documentation](https://www.elastic.co/guide/en/elasticsearch/reference/current/starting-elasticsearch.html)
 
