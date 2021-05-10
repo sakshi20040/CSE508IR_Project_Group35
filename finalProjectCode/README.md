@@ -54,6 +54,15 @@ Run the python file searching.py in new terminal.
 ```bash
 python searching.py
 ```
+Run the http or https URL of the ngrok to start the server on your browser.
+
+![query1 search](images/img2.png)
+![query1 results](images/img3.png)
+![query1 answer](images/img4.png)
+![query2 search](images/img5.png)
+![query2 results](images/img6.png)
+
+
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
