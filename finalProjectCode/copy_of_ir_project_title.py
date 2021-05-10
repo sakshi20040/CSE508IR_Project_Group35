@@ -118,6 +118,7 @@ for c in tqdm_notebook(changed):
     list_embeddings = array_embeddings.tolist()[0]
     embeddings.append(np.array(list_embeddings))
 
+embeddings = np.array(embeddings)
 joblib.dump(embeddings,"/content/drive/MyDrive/IR project/title_embeddings_full" )
 
 #function to create the sentence embeddings and store in a csv file.
