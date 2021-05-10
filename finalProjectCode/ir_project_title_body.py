@@ -140,6 +140,7 @@ for col in file:
   embeddings.append(np.array(ast.literal_eval(col['vector'])))
   idlist.append(col['id'])
 
+embeddings = np.array(embeddings)    
 joblib.dump(embeddings,"/content/drive/MyDrive/IR project/embeddings_9may" )
 
 import joblib
