@@ -1,6 +1,6 @@
 # QueRe
 
-QueRe is an effective end-to-end Question-Answer retrieval system capable of retrieving a ranked list of relevant Question-Answer pairs against a user query where the  query can be multilingual.
+QueRe is an effective end-to-end Question-Answer retrieval system capable of retrieving a ranked list of relevant Question-Answer pairs against a  textual user query where the  query can be multilingual.
 
 ## Requirements
 
