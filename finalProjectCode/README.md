@@ -34,6 +34,7 @@ pip install tensorflow
 
 ## **Proposed Model**
   ![model](images/ir_final_diagram5.jpg)
+  
 The model takes as input user's query (multilingual and translates it into English.
 Then the query is preprocessed and sentence embedding for the query is produced.
 The preprocessed query is sent to Elastic Search for scoring and thus returning the the top 10 questions.
