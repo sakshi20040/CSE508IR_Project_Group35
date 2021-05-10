@@ -48,6 +48,7 @@ Once the indexing is created, fire up ngrok in new terminal.
 ngrok http 3000
 
 ```
+![ngrok](/images/img1.png)
 
 Run the python file searching.py in new terminal.
 ```bash
